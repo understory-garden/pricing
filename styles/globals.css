@@ -19,7 +19,7 @@ main {
 }
 
 .note-body {
-  @apply font-sans text-xl max-w-2xl text-center m-auto;
+  @apply font-sans text-xl max-w-2xl m-auto;
 }
 
 .note-body img {
